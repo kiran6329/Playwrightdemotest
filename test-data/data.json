@@ -1,0 +1,17 @@
+{
+  "user": {
+    "firstName": "John",
+    "lastName": "Tester",
+    "password": "Password123"
+  },
+  "contacts": [
+    {
+      "firstName": "Alice",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Brown"
+    }
+  ]
+}
